@@ -1,2 +1,0 @@
-# sagemakerdata
-Sage Maker Data
